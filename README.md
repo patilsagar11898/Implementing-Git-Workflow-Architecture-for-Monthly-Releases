@@ -29,7 +29,7 @@ I will simulate this workflow by creating pseudo code files and branches on GitH
 
 GitHub Repository Link:
 
-I've implemented the proposed Git Workflow Architecture in a GitHub repository. You can access it (https://github.com/yourusername/your-repository).
+I've implemented the proposed Git Workflow Architecture in a GitHub repository. You can access it (https://github.com/patilsagar11898/Implementing-Git-Workflow-Architecture-for-Monthly-Releases).
 
 Conclusion:
 
